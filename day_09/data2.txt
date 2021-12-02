@@ -1,0 +1,49 @@
+Shakespere
+Newly created file 
+than lack it where there is such abundance.worthiness would stir it up where it wanted rather
+good must of necessity hold his virtue to you; whose
+sir, a father: he that so generally is at all times
+You shall find of the king a husband, madam; you,
+
+You -> 1
+shall -> 1
+find -> 1
+of -> 2
+the -> 1
+king -> 1
+a -> 2
+husband, -> 1
+madam; -> 1
+you, -> 1
+sir, -> 1
+father: -> 1
+he -> 1
+that -> 1
+so -> 1
+generally -> 1
+is -> 2
+at -> 1
+all -> 1
+times -> 1
+good -> 1
+must -> 1
+necessity -> 1
+hold -> 1
+his -> 1
+virtue -> 1
+to -> 1
+you; -> 1
+whose -> 1
+worthiness -> 1
+would -> 1
+stir -> 1
+it -> 3
+up -> 1
+where -> 2
+wanted -> 1
+rather -> 1
+than -> 1
+lack -> 1
+there -> 1
+such -> 1
+abundance. -> 1
